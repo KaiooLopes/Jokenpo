@@ -1,0 +1,24 @@
+.title{
+    text-transform: uppercase;
+}
+
+.placar span{
+    background-color: rgb(45, 45, 201);
+    padding: 8px;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.placar{
+    margin-bottom: 20px;
+}
+
+.game select, .game input{
+    width: 80px;
+    margin: 10px;
+}
+
+button{
+    margin: 10px;
+}
